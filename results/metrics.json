@@ -1,0 +1,8 @@
+{
+  "project": "Spatial Gene Expression Interpolation",
+  "selected_length": 0.05,
+  "masked_test_rmse": 0.13343434225676287,
+  "mean_baseline_rmse": 1.1529638957626218,
+  "edge_extrapolation_rmse": 0.7681784165211545,
+  "scope": "Observed spots on test tissue are allowed references; masked targets remain hidden."
+}
